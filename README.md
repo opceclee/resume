@@ -94,6 +94,7 @@ react项目基本的维护。
 
 * Web框架：vue/react/小程序/Bootstrap/HTML5/ionic
 * 服务端框架：koa2
+* 服务器：Nginx
 * 前端工具：webpack
 * 数据库相关：MySQL
 * 版本管理、文档和自动化部署工具：Svn/Git/GitHub
